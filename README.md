@@ -21,4 +21,3 @@
 <p>The cloud wins hands down in 100% elastic environments like dev/test. Where you want to build the infrastructure fast, use it for some period and then just destroy. And you can't predict your development cycles much in advance, so you can't efficiently build private infrastructure.
 </body>
 </html>
-# ssherrill19.github.io
