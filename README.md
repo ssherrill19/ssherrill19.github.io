@@ -1,7 +1,7 @@
 <html>
 <head><title>When Do I choose cloud and when datacenter?</title></head>
 <body>
-	<div class="entry-meta"><a class="entry-date published">December 7, 2016</a></div>
+	<div class="entry-meta"><a class="entry-date published">June 29, 2021</a></div>
 
 <p>A million dollar (literally) question.  
 
